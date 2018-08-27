@@ -1,6 +1,6 @@
 #R-learning.eu
 
-	       Vue
+|	       Vue		|
 --------------------------------
 Laravel		|	R-Studio
 ---------	|	--------
